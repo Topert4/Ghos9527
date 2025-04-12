@@ -9,8 +9,4 @@
 ### 关于编程语言 
 -  编程语言我的定义是：Go Python 作为入籍入门系列。
 -  可以在开放群板块内进行交流：https://t.me/+SzVBSknAKiZhYTc1
-# C++  
-# pyhton  
-
-# Rust
 
